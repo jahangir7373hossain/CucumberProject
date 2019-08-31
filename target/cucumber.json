@@ -1,0 +1,246 @@
+[
+  {
+    "line": 3,
+    "elements": [
+      {
+        "line": 13,
+        "name": "Test sign in page",
+        "description": "",
+        "id": "sign-in-page;test-sign-in-page;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 181011200,
+              "error_message": "java.lang.NullPointerException\r\n\tat com.qa.stepDefination.SignInTest.user_open_the_app(SignInTest.java:27)\r\n\tat ✽.Given User open the app(signin.feature:6)\r\n",
+              "status": "failed"
+            },
+            "line": 6,
+            "name": "User open the app",
+            "match": {
+              "location": "SignInTest.user_open_the_app()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "User valiadte all sign in property there",
+            "match": {
+              "location": "SignInTest.user_valiadte_all_sign_in_property_there()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "User insert \"jahangir123\" and \"123547\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "jahangir123",
+                  "offset": 13
+                },
+                {
+                  "val": "123547",
+                  "offset": 31
+                }
+              ],
+              "location": "SignInTest.user_insert_and(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "close the browser",
+            "match": {
+              "location": "SignInTest.close_the_browser()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 2,
+            "name": "@ExtentReport"
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "name": "Test sign in page",
+        "description": "",
+        "id": "sign-in-page;test-sign-in-page;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 294400,
+              "error_message": "java.lang.NullPointerException\r\n\tat com.qa.stepDefination.SignInTest.user_open_the_app(SignInTest.java:27)\r\n\tat ✽.Given User open the app(signin.feature:6)\r\n",
+              "status": "failed"
+            },
+            "line": 6,
+            "name": "User open the app",
+            "match": {
+              "location": "SignInTest.user_open_the_app()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "User valiadte all sign in property there",
+            "match": {
+              "location": "SignInTest.user_valiadte_all_sign_in_property_there()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "User insert \"hossain@gmail.com\" and \"3595158\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "hossain@gmail.com",
+                  "offset": 13
+                },
+                {
+                  "val": "3595158",
+                  "offset": 37
+                }
+              ],
+              "location": "SignInTest.user_insert_and(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "close the browser",
+            "match": {
+              "location": "SignInTest.close_the_browser()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 2,
+            "name": "@ExtentReport"
+          }
+        ]
+      },
+      {
+        "line": 15,
+        "name": "Test sign in page",
+        "description": "",
+        "id": "sign-in-page;test-sign-in-page;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 324200,
+              "error_message": "java.lang.NullPointerException\r\n\tat com.qa.stepDefination.SignInTest.user_open_the_app(SignInTest.java:27)\r\n\tat ✽.Given User open the app(signin.feature:6)\r\n",
+              "status": "failed"
+            },
+            "line": 6,
+            "name": "User open the app",
+            "match": {
+              "location": "SignInTest.user_open_the_app()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "User valiadte all sign in property there",
+            "match": {
+              "location": "SignInTest.user_valiadte_all_sign_in_property_there()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "User insert \"bchchshshcbds\" and \"6303633\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "bchchshshcbds",
+                  "offset": 13
+                },
+                {
+                  "val": "6303633",
+                  "offset": 33
+                }
+              ],
+              "location": "SignInTest.user_insert_and(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "close the browser",
+            "match": {
+              "location": "SignInTest.close_the_browser()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 2,
+            "name": "@ExtentReport"
+          }
+        ]
+      }
+    ],
+    "name": "Sign in page",
+    "description": "",
+    "id": "sign-in-page",
+    "keyword": "Feature",
+    "uri": "signin.feature",
+    "tags": [
+      {
+        "line": 2,
+        "name": "@ExtentReport"
+      }
+    ]
+  }
+]

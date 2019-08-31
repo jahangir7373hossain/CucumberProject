@@ -1,0 +1,18 @@
+<suite name = "Suite">
+ 
+   <test name = "test">
+   
+      <classes>
+ 
+         <class name = "TVFeatureTest.java">
+			<methods>
+					<exclude name= "user_open_the_optimtum_dot_net_app"/>
+					<exclude name= "user_mouse_hover_over_TV_tab_and_click_on_On_Demand"/>
+			</methods>
+		</class>
+ 
+      </classes>
+   
+   </test>
+		
+</suite>

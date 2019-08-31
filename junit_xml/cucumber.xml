@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="93.635784">
+<testcase classname="Sign in page" name="Test sign in page" time="46.84815">
+<system-out><![CDATA[Given User open the app.....................................................passed
+Then User valiadte all sign in property there...............................passed
+Then User insert "jahangir123" and "123547".................................passed
+And close the browser.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Sign in page" name="Test sign in page 2" time="23.938479">
+<system-out><![CDATA[Given User open the app.....................................................passed
+Then User valiadte all sign in property there...............................passed
+Then User insert "hossain@gmail.com" and "3595158"..........................passed
+And close the browser.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Sign in page" name="Test sign in page 3" time="22.849155">
+<system-out><![CDATA[Given User open the app.....................................................passed
+Then User valiadte all sign in property there...............................passed
+Then User insert "bchchshshcbds" and "6303633"..............................passed
+And close the browser.......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
